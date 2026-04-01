@@ -23,13 +23,11 @@ Specialization: **Applied Statistics & Data Science**
 
 ---
 ###  Tech Stack
-**Languages:** Python, SQL, R, Java  
-**Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, HuggingFace  
-**ML/DL:** Regression, SVM, Random Forest, XGBoost, Neural Networks, CNN, RNN, LSTM  
-**NLP & LLMs:** TF-IDF, Transformers, BERT, Prompting, RAG Systems  
-**Tools:** Git, GitHub, Jupyter, Power BI, Excel  
-**Cloud (Basics):** AWS
-
+**Programming & Libraries: **Python, SQL, Java, R, Pandas, NumPy, Scikit-learn, Matplotlib
+**AI / Machine Learning: **Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Cross Validation
+**Generative AI &NLP:**Transformers, BERT, Text Embeddings, spaCy, NLTK, TensorFlow, Prompt Engineering, Fine-Tuning, RAG
+**Agentic AI & Systems:** LangChain, LangGraph, AutoGen, Multi-Agent Systems, Tool Calling, Orchestration, Vector Databases
+**Data Science & Analytics: **EDA, Statistical Modeling, Hypothesis Testing, Time Series Analysis
 ---
 
 ###  Interests
